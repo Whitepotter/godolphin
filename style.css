@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+#headimg{
+    width:200px;
+    margin-left: 10px;
+    border-radius: 100px;
+}
+#details{
+     margin-bottom: 600px;
+}
+.facilities{
+    width:600px;
+}
+.new_li{
+    margin:30px;
+    color:black;
+}
+.text{
+    font-size:20px;
+}
+#covidtitle{
+    font-size:25px;
+}
